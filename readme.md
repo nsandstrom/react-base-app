@@ -12,3 +12,5 @@ Contains a nice amount of bare minimum.
 * Importing of scss
 * Usefull but confusing babel stuff
 * Picture of a cat!
+
+<img src="./static/media/demo.jpg">
